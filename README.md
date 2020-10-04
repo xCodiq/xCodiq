@@ -1,16 +1,15 @@
-### Hi there 👋
+## Cody (aka. xCodiq/Codiq)
 
-<!--
-**xCodiq/xCodiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I am a self taught Java Developer with an average knownledge of the MongoDB library. Read more about me below!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍  I’m from the Netherlands.
+- 🔭 I’m currently working on [Overblast](https://www.overblast.org/)
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: [Click Here](https://www.codiq.me/)
+- ⚡ Fun fact: I love hardcore
+---
+<img src="https://github-readme-stats.vercel.app/api?username=xCodiq&show_icons=true&theme=tokyonight&hide_border=true">
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCodiq&theme=tokyonight">
+---
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xCodiq">
