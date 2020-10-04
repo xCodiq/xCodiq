@@ -11,5 +11,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xCodiq&show_icons=true&theme=tokyonight&hide_border=true">
 ---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCodiq&theme=tokyonight">
----
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xCodiq">
