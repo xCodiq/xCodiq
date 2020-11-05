@@ -3,7 +3,7 @@
 ##### I am a self-taught Java Developer with an average knownledge of the MongoDB library. Read more about me below!
 
 - 👨 I’m from the Netherlands.
-- 🔭 I’m currently working on [Overblast](https://www.overblast.org/)
+- 🔭 I’m currently working on [NeverEndingPvP](https://discord.nepvp.com/)
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [www.Codiq.me](https://www.codiq.me/)
 - 💬 Fun fact: I love hardcore
