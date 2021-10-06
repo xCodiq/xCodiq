@@ -1,5 +1,5 @@
-<a href="https://twitter.com/xCodiq/" target="blank"><img src="https://img.shields.io/twitter/follow/xcodiq?logo=twitter&style=for-the-badge" alt="xcodiq" /></a> <a href="https://twitter.com/playnepvp/" target="blank"><img src="https://img.shields.io/twitter/follow/playnepvp?logo=twitter&style=for-the-badge" alt="playnepvp" /></a>
- <a href="https://twitter.com/blockyllc/" target="blank"><img src="https://img.shields.io/twitter/follow/joingodwars?logo=twitter&style=for-the-badge" alt="blocky" /></a>
+<a href="https://twitter.com/xCodiq/" target="blank"><img src="https://img.shields.io/twitter/follow/xcodiq?logo=twitter&style=for-the-badge" alt="xcodiq" /></a> 
+<a href="https://twitter.com/blockyllc/" target="blank"><img src="https://img.shields.io/twitter/follow/joingodwars?logo=twitter&style=for-the-badge" alt="blocky" /></a>
 
 ```java
 public class Cody extends GitHubUser {
@@ -7,7 +7,7 @@ public class Cody extends GitHubUser {
   public Cody() {
     super("xCodiq", "The Netherlands");
 
-    this.addLanguage("Java", "Python", "Javascript");
+    this.addLanguage("Java", "Python", "C", "C++", "C#", "Javascript");
     this.addExperience("NeverEndingPvP", "GodWars", "Pixel Entertainment", "FortisPvP", "Chasecraft", "Inky");
   }
 }
