@@ -8,7 +8,7 @@ public class Cody extends GitHubUser {
     super("xCodiq", "The Netherlands");
 
     this.addLanguage("Java", "Python", "C", "C++", "C#", "Javascript");
-    this.addExperience("NeverEndingPvP", "GodWars", "Pixel Entertainment", "FortisPvP", "Chasecraft", "Inky");
+    this.addExperience("Blocky Studios, LLC", "The Minecart", "GodWars", "BlockFun", "Lands", "MelonSMP", "Chasecraft LLC");
   }
 }
 
