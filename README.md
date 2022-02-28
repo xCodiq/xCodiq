@@ -8,7 +8,7 @@ public class Cody extends GitHubUser {
     super("xCodiq", "The Netherlands");
 
     this.addLanguage("Java", "Python", "C", "C++", "C#", "Javascript");
-    this.addExperience("Blocky Studios, LLC", "The Minecart", "GodWars", "BlockFun", "Lands", "MelonSMP", "Chasecraft LLC");
+    this.addExperience("Blocky Studios, LLC", "The Minecart", "MelonSMP", "PineappleSMP", "Lands SMP", "Godwars", "Chasecraft LLC");
   }
 }
 
@@ -17,8 +17,8 @@ public abstract class GitHubUser {
   @Getter private final String username;
   @Getter private final String country;
 
-  private Set<String> languages = new HashSet<>();
-  private Set<String> experiences = new HashSet<>();
+  private final Set<String> languages = new HashSet<>();
+  private final Set<String> experiences = new HashSet<>();
 
   public GitHubUser(String username, String country) {
       this.name = username;
