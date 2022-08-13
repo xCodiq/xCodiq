@@ -7,8 +7,17 @@ public class Cody extends GitHubUser {
   public Cody() {
     super("xCodiq", "The Netherlands");
 
-    this.addLanguage("Java", "Python", "C", "C++", "C#", "Javascript");
-    this.addExperience("Blocky Studios, LLC", "The Minecart", "MelonSMP", "PineappleSMP", "Lands SMP", "Godwars", "Chasecraft LLC");
+    this.addLanguage("Java", "Python", "C", "C++", "C#");
+    this.addExperience(
+      "Blocky, LLC", 
+      "MelonSMP", 
+      "Antarctica Studios", 
+      "The Minecart", 
+      "Lands SMP", 
+      "Godwars", 
+      "Chasecraft LLC",
+      "Manta.gg"
+    );
   }
 }
 
